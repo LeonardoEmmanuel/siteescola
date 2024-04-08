@@ -1,6 +1,6 @@
 .cabeçalho_lista {
     background-image: url(https://i.pinimg.com/736x/34/ac/5c/34ac5c5b356cf6d4ab3e80bc13747980.jpg);
-    color: white;
+    color: rgb(180, 240, 42);
     display: flex;
     justify-content: space-around;
     align-items: center;
