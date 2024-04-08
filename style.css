@@ -1,13 +1,39 @@
-
-.cabecalho-imagem{
-
-    width: 20%;
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+/* Estilos do cabeçalho */
 .cabecalho {
     background-color: #383D58;
-    color: greenyellow;
-    color: greenyellow;
-display:flex;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
-    }
+
+.cabecalho-imagem {
+    width: 100px; /* Ajuste conforme necessário */
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 18px;
+}
+
+/* Estilos das seções */
+.secao {
+    padding: 20px;
+}
+
+/* Estilos do rodapé */
+footer {
+    background-color: #383D58;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
