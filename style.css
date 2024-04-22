@@ -1,5 +1,7 @@
 .cabeçalho_lista {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcDVaYo5cueGsmhphlcwXq9YD4Yb1vrHwLeQ&s);
+    background-image: url(
+        https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfFAN1rJR1vIJbDP-BRpfOADX-iQPFH-fqydYWz-TEfb-NeR4QprliTRpr04mb7ZX4xZ4&usqp=CAU
+    );
     color: rgb(42, 184, 240);
     display: flex;
     justify-content: space-around;
